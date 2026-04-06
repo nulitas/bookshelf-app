@@ -1,13 +1,26 @@
-<h1 align="center">Bookshelf App</h1>
+# Bookshelf App
+
+> A dynamic website for managing Books built using vanilla JavaScript, utilizing `localStorage` for persistent data.
 
 <p align="center">
-  Bookshelf App is a dynamic website for managing Books built using JavaScript and allow to save key/value pairs in a web browser using localStorage. </p>
+  <img src="./assets/img/home.png" alt="Home Page">
+</p>
 
-## Screenshots
+## ✨ Features
+- Add, Edit, and Delete Books
+- Mark books as "Finished" or "Unfinished"
+- Persistent client-side storage
 
-![Home Page](./assets/img/home.png "Home Page")
+## 🚀 Getting Started
 
-## Built with
+Simply open the application in any modern web browser. No server setup required!
 
-- JavaScript
-- CSS3
+1. Clone or download the repository.
+2. Open `index.html` in your browser.
+
+## 🛠️ Built With
+- **JavaScript**
+- **CSS3** & **HTML5**
+
+## 📝 License
+Distributed under the MIT License.
